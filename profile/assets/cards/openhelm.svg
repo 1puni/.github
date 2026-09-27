@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" width="800" height="460" role="img" aria-labelledby="t"><title id="t">OpenHelm: navigation software for the boat you're actually on. 1puni.com/#openhelm</title>
+<rect width="800" height="460" fill="#f8f8ed"/>
+<text x="36" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="bold" font-style="normal" fill="#171918" text-anchor="start" letter-spacing="0.84">01 / OPENHELM</text>
+<text x="764" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="normal" font-style="normal" fill="#171918" text-anchor="end" letter-spacing="0.84">BUILT FROM THE COCKPIT</text>
+<path d="M36 62H764" stroke="#171918" stroke-width="1.5"/>
+<text x="36" y="128" font-family="Arial, 'Helvetica Neue', Helvetica, 'Liberation Sans', sans-serif" font-size="58" font-weight="900" font-style="normal" fill="#171918" text-anchor="start" letter-spacing="-2.90" textLength="397.8" lengthAdjust="spacingAndGlyphs">The sea doesn’t</text><text x="36" y="187" font-family="Arial, 'Helvetica Neue', Helvetica, 'Liberation Sans', sans-serif" font-size="58" font-weight="900" font-style="normal" fill="#171918" text-anchor="start" letter-spacing="-2.90" textLength="411.2" lengthAdjust="spacingAndGlyphs">give a shit about</text><text x="36" y="246" font-family="Georgia, 'Times New Roman', serif" font-size="60" font-weight="normal" font-style="italic" fill="#171918" text-anchor="start" letter-spacing="-2.40" textLength="380.5" lengthAdjust="spacingAndGlyphs">your roadmap.</text>
+<text x="36" y="340" font-family="Arial, 'Helvetica Neue', Helvetica, 'Liberation Sans', sans-serif" font-size="19" font-weight="normal" font-style="normal" fill="#171918" text-anchor="start" textLength="426.7" lengthAdjust="spacingAndGlyphs">Navigation software for the boat you’re actually on.</text>
+<g transform="translate(500 88)">
+<g transform="rotate(3 132.0 136.0)">
+<rect x="10" y="10" width="264" height="254" fill="#eaff00"/>
+<rect width="264" height="254" fill="#83bbc7" stroke="#171918" stroke-width="2"/><path d="M24 0V254M48 0V254M72 0V254M96 0V254M120 0V254M144 0V254M168 0V254M192 0V254M216 0V254M240 0V254M0 24H264M0 48H264M0 72H264M0 96H264M0 120H264M0 144H264M0 168H264M0 192H264M0 216H264M0 240H264" stroke="#17191822" stroke-width="1"/>
+<svg width="264" height="254" viewBox="0 0 420 350" preserveAspectRatio="xMidYMid slice">
+<path d="M240-10Q160 40 215 92T198 196T251 354H440V0" fill="#eaff00" stroke="#171918" stroke-width="3"/>
+<path d="M279-10Q204 51 251 99T238 203T295 370M306-10Q235 51 280 103T270 207T330 370" fill="none" stroke="#171918"/>
+<path d="M85 319Q25 201 103 181T136 80L103 44" fill="none" stroke="#171918" stroke-width="3" stroke-dasharray="8 7"/>
+<path d="M92 52L101 29L116 50Z" fill="#ff653b" stroke="#171918" stroke-width="2"/>
+<circle cx="110" cy="285" r="26" fill="none" stroke="#171918"/><path d="M110 250V320M75 285H145" stroke="#171918"/>
+<text x="276" y="178" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="bold" fill="#171918">LAND.</text>
+<text x="267" y="202" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#171918">AVOID IT.</text></svg>
+</g></g>
+<rect y="380" width="800" height="80" fill="#171918"/>
+<text x="36" y="427" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="bold" font-style="normal" fill="#eaff00" text-anchor="start" letter-spacing="1.14">1PUNI.COM/#OPENHELM ↗</text>
+<text x="764" y="426" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="normal" font-style="normal" fill="#f8f8ed" text-anchor="end" letter-spacing="1.20">IN DEVELOPMENT</text>
+<rect x="2" y="2" width="796" height="456" fill="none" stroke="#171918" stroke-width="4"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" width="800" height="460" role="img" aria-labelledby="t"><title id="t">Bathy: a Swedish commons for bathymetric source data. Depth data with a paper trail. bathy.1puni.com</title>
+<rect width="800" height="460" fill="#83bbc7"/>
+<text x="36" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="bold" font-style="normal" fill="#171918" text-anchor="start" letter-spacing="0.84">BATHY / THE DEPTH COMMONS</text>
+<text x="764" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="normal" font-style="normal" fill="#171918" text-anchor="end" letter-spacing="0.84">LEAVE MORE THAN A WAKE</text>
+<path d="M36 62H764" stroke="#171918" stroke-width="1.5"/>
+<text x="36" y="157" font-family="Arial, 'Helvetica Neue', Helvetica, 'Liberation Sans', sans-serif" font-size="58" font-weight="900" font-style="normal" fill="#171918" text-anchor="start" letter-spacing="-2.90" textLength="388.0" lengthAdjust="spacingAndGlyphs">Below the boat.</text><text x="36" y="216" font-family="Georgia, 'Times New Roman', serif" font-size="60" font-weight="normal" font-style="italic" fill="#171918" text-anchor="start" letter-spacing="-2.40" textLength="332.5" lengthAdjust="spacingAndGlyphs">Above board.</text>
+<text x="36" y="340" font-family="Arial, 'Helvetica Neue', Helvetica, 'Liberation Sans', sans-serif" font-size="21" font-weight="normal" font-style="normal" fill="#171918" text-anchor="start" textLength="268.5" lengthAdjust="spacingAndGlyphs">Depth data with a paper trail.</text>
+<g transform="translate(500 88)">
+<rect x="8" y="8" width="248" height="256" fill="#171918"/>
+<rect width="248" height="256" fill="#f8f8ed" stroke="#171918" stroke-width="2"/>
+<text x="22" y="112" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="100" font-weight="900" letter-spacing="-10" fill="#171918">↓≈</text>
+<path d="M18 132H230" stroke="#171918" stroke-dasharray="4 4"/>
+<text x="22" y="160" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="bold" font-style="normal" fill="#171918" text-anchor="start" letter-spacing="0.78">SOUNDING RECEIPT</text>
+<text x="22" y="186" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="normal" font-style="normal" fill="#171918" text-anchor="start">HASHED ··········· ✓</text>
+<text x="22" y="206" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="normal" font-style="normal" fill="#171918" text-anchor="start">QUARANTINED ······ ✓</text>
+<text x="22" y="226" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="normal" font-style="normal" fill="#171918" text-anchor="start">REVIEWED, THEN SHOWN</text></g>
+<rect y="380" width="800" height="80" fill="#171918"/>
+<text x="36" y="427" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="bold" font-style="normal" fill="#eaff00" text-anchor="start" letter-spacing="1.14">BATHY.1PUNI.COM ↗</text>
+<text x="764" y="426" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="normal" font-style="normal" fill="#f8f8ed" text-anchor="end" letter-spacing="1.20">DEPTH COMMONS</text>
+<rect x="2" y="2" width="796" height="456" fill="none" stroke="#171918" stroke-width="4"/>
+</svg>
