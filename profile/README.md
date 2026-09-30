@@ -4,6 +4,8 @@
 <p align="center"><i>The headcount is settled. The scope is another matter.</i></p>
 
 <p align="center">
+<a href="https://1puni.com/#switchboard"><b>GuruGee</b></a> ·
+<a href="https://github.com/1puni/steward"><b>Steward Harness</b></a> ·
 <a href="https://1puni.com/#openhelm"><b>OpenHelm</b></a> ·
 <a href="https://1puni.com/cartography/"><b>Cartography</b></a> ·
 <a href="https://1puni.com/#screensaver"><b>Mac screensaver</b></a> ·
@@ -11,13 +13,21 @@
 <a href="https://crosstrees.1puni.com/"><b>Crosstrees</b></a> ·
 <a href="https://1puni.com/autopilot/"><b>Drill autopilot</b></a> ·
 <a href="https://overprint.1puni.com/"><b>Overprint</b></a> ·
-<a href="https://1puni.com/#switchboard"><b>GuruGee</b></a> ·
 <a href="https://glance.1puni.com/"><b>GG Glance</b></a> ·
-<a href="https://github.com/1puni/steward"><b>Steward Harness</b></a> ·
 <a href="https://allmanningen.fyi/"><b>ALLMÄNNINGEN</b></a>
 </p>
 
-<img src="assets/strip-enterprise.svg" width="100%" alt="The whole unreasonable enterprise. Every poster links to its project.">
+<img src="assets/strip-org.svg" width="100%" alt="The organisation: GuruGee and Steward Harness. GG is the voice; Steward is the workshop.">
+
+<h3 align="center"><i>GG is the voice. Steward is the workshop.</i><br>
+<sub>GuruGee explores voice, memory and the awkward question. Steward Harness controls what the intelligence may change — and what counts as done.</sub></h3>
+
+<p align="center">
+<a href="https://1puni.com/#switchboard"><img src="assets/cards/gurugee.svg" width="100%" alt="GuruGee. You have ideas. GG has questions. An anti-assistant for a brain with too many tabs open. Private research preview."></a>
+<a href="https://github.com/1puni/steward"><img src="assets/cards/steward.svg" width="100%" alt="Steward Harness. “I’ll get back to it” is not an operating system. Intent, work, check, prove it. MIT, pre-1.0."></a>
+</p>
+
+<img src="assets/strip-enterprise.svg" width="100%" alt="The projects. Every poster links to its project.">
 
 <p align="center">
 <a href="https://1puni.com/#openhelm"><img src="assets/cards/openhelm.svg" width="49%" alt="OpenHelm. The sea doesn’t give a shit about your roadmap. A chart plotter, built from the cockpit. Closed beta — request access."></a>
@@ -27,9 +37,7 @@
 <a href="https://crosstrees.1puni.com/"><img src="assets/cards/crosstrees.svg" width="49%" alt="Crosstrees and India. A boat is a thousand arguments. Vessel knowledge, hull form and rigging in a modelling workbench. Presentation open, desk by invitation."></a>
 <a href="https://1puni.com/autopilot/"><img src="assets/cards/drill.svg" width="49%" alt="Drill autopilot. Our helmsman came from the power-tool aisle. Previous role: holes. Current role: heading. Marine certification: absolutely not."></a>
 <a href="https://overprint.1puni.com/"><img src="assets/cards/overprint.svg" width="49%" alt="Overprint. One beginning. Ten wild turns. Comics none of us could make alone. Concept demo — the co-creation platform is looking for its first co-authors."></a>
-<a href="https://1puni.com/#switchboard"><img src="assets/cards/gurugee.svg" width="49%" alt="GuruGee. You have ideas. GG has questions. An anti-assistant for a brain with too many tabs open. Private research preview."></a>
 <a href="https://glance.1puni.com/"><img src="assets/cards/glance.svg" width="49%" alt="GG Glance. Your project. Eyebrow raised. A verdict desk for ideas and architectural messes. Paid inquiry."></a>
-<a href="https://github.com/1puni/steward"><img src="assets/cards/steward.svg" width="49%" alt="Steward Harness. “I’ll get back to it” is not an operating system. Intent, work, check, prove it. MIT, pre-1.0."></a>
 <a href="https://allmanningen.fyi/"><img src="assets/cards/allmanningen.svg" width="49%" alt="ALLMÄNNINGEN. An idea needs a body. Our contribution: visuals, voice and content."></a>
 </p>
 

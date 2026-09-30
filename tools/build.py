@@ -513,8 +513,10 @@ if __name__ == "__main__":
     hero()
     cards()
     stamps()
-    strip("strip-enterprise", "THE WHOLE UNREASONABLE ENTERPRISE ↓", "EVERY POSTER IS A DOOR",
-          "The whole unreasonable enterprise. Every poster links to its project.")
+    strip("strip-org", "THE ORGANISATION ↓", "GG IS THE VOICE · STEWARD IS THE WORKSHOP",
+          "The organisation: GuruGee and Steward Harness. GG is the voice; Steward is the workshop.")
+    strip("strip-enterprise", "THE PROJECTS ↓", "THE WHOLE UNREASONABLE ENTERPRISE",
+          "The projects. Every poster links to its project.")
     strip("strip-ashore", "OCCASIONALLY, WE GO ASHORE ↓", "OTHER GOOD TROUBLE", "Occasionally, we go ashore. Collaborations.")
     strip("strip-crew", "THE CREW ↓", "ORG CHART, SUCH AS IT IS", "The crew.")
     strip("strip-source", "SOURCE, AS IN ACTUAL SOURCE ↓", "READ IT · FORK IT · ARGUE WITH IT", "Public source repositories.")
