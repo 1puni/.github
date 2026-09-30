@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 560">
+  <defs>
+    <clipPath id="disc"><circle cx="280" cy="280" r="279"/></clipPath>
+    <radialGradient id="chalk" cx="75%" cy="24%" r="92%">
+      <stop stop-color="#e5d7c5"/>
+      <stop offset=".48" stop-color="#cfc0ae"/>
+      <stop offset=".79" stop-color="#aaa095"/>
+      <stop offset="1" stop-color="#766f69"/>
+    </radialGradient>
+    <radialGradient id="basin">
+      <stop stop-color="#827d77" stop-opacity=".4"/>
+      <stop offset=".72" stop-color="#91877c" stop-opacity=".19"/>
+      <stop offset="1" stop-color="#91877c" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="11"/></filter>
+    <filter id="paper" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency=".68" numOctaves="3" seed="17" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter>
+  </defs>
+  <g clip-path="url(#disc)">
+    <circle cx="280" cy="280" r="280" fill="url(#chalk)"/>
+    <!-- Broad, imperfect charcoal washes: graphic marks, not lunar geography. -->
+    <g fill="#797570" opacity=".19" filter="url(#soft)">
+      <path d="M94 113C126 70 182 77 211 113C234 143 203 173 217 209C235 246 208 279 165 277C123 275 88 250 89 214C91 179 57 152 94 113Z"/>
+      <path d="M264 124C285 104 337 111 349 143C356 166 335 185 345 208C363 246 320 270 290 247C271 233 243 238 240 209C237 176 279 167 264 124Z"/>
+      <path d="M127 334C153 301 205 303 230 337C250 365 227 383 244 416C258 449 218 469 182 453C151 440 100 449 95 413C91 382 110 355 127 334Z"/>
+    </g>
+    <ellipse cx="421" cy="188" rx="52" ry="44" fill="url(#basin)" transform="rotate(-24 421 188)"/>
+    <ellipse cx="371" cy="350" rx="35" ry="28" fill="url(#basin)"/>
+    <ellipse cx="291" cy="448" rx="48" ry="31" fill="url(#basin)" transform="rotate(19 291 448)"/>
+    <g fill="none" stroke="#f0e4d3" stroke-linecap="round" opacity=".25">
+      <path d="M397 217Q421 232 445 207" stroke-width="4"/>
+      <path d="M353 369Q372 380 388 363" stroke-width="3"/>
+      <path d="M273 470Q294 481 312 470" stroke-width="3"/>
+    </g>
+    <path d="M334 17C461 40 540 152 544 262" fill="none" stroke="#f3e6d2" stroke-width="4" opacity=".19"/>
+    <rect width="560" height="560" filter="url(#paper)" opacity=".105" style="mix-blend-mode:soft-light"/>
+  </g>
+</svg>

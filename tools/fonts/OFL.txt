@@ -1,0 +1,5 @@
+Gelasio — https://github.com/SorkinType/Gelasio
+Copyright 2018 The Gelasio Project Authors (https://github.com/SorkinType/Gelasio)
+SIL Open Font License 1.1. Bundled here as the metric-compatible stand-in for
+Georgia on machines that lack Apple's system fonts, so text-width pinning in
+build.py measures the same advances either way.

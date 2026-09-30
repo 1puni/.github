@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 840">
+<defs><pattern id="bow-net" width="13" height="13" patternUnits="userSpaceOnUse"><path d="M0 0L13 13M13 0L0 13" fill="none" stroke="#eee2c3" stroke-width="1.3"/></pattern></defs>
+<!-- Side elevation from V's rig plan: uniform scale, bow right. The water hides the keel. -->
+<g fill="none" stroke="#171918" stroke-width="2"><path d="M121 632L179 303L316 224L306 675M331 632L407 199L580 66L566 685M600 100L961 661M580 66L746 674M316 224L171 681"/></g>
+<g stroke="#171918" stroke-width="3" stroke-linejoin="round">
+<!-- Topsails sit above the two sloping gaffs. -->
+<path d="M425 205L570 135L571 287Z" fill="#913b2b"/>
+<path d="M183 311L308 263L306 355Z" fill="#913b2b"/>
+<!-- Full four-sided main and mizzen, following the 38 and 24 square metre outlines. -->
+<path d="M411 210L567 304L564 631Q454 645 332 632Z" fill="#a64730"/>
+<path d="M178 310L302 369L300 636Q210 640 123 632Z" fill="#a64730"/>
+<!-- Outer jib and inner staysail. -->
+<path d="M603 109L926 613Q842 593 750 593Z" fill="#783127"/>
+<path d="M601 312L603 631L751 633Z" fill="#9e432f"/>
+</g>
+<g fill="none" stroke="#6b2924" stroke-width="1.8"><path d="M438 227L391 638M474 249L452 639M510 270L511 637M354 524L565 527M379 399L566 414M198 320L164 635M234 338L216 638M270 354L265 637M143 511L301 519M661 207L798 600M709 287L851 602M625 420L650 632M648 485L697 633"/></g>
+<!-- Mast heights retain the drawing's approximately 15:11 relationship. -->
+<path d="M316 204V692M580 25V692" fill="none" stroke="#171918" stroke-width="8"/>
+<path d="M316 207V688M580 28V688" fill="none" stroke="#aa8050" stroke-width="3"/>
+<path d="M408 208L568 303M176 309L303 369M330 638H565M120 638L302 642" fill="none" stroke="#171918" stroke-width="7" stroke-linecap="round"/>
+<path d="M408 207L568 302M176 308L303 368M330 637H565M120 637L302 641" fill="none" stroke="#aa8050" stroke-width="3"/>
+<path d="M580 29L620 36L580 44Z" fill="#913b2b"/>
+<!-- Low deckhouses, upright bow and almost level bowsprit. -->
+<path d="M193 682L196 662H259L268 688M373 691L380 676H464L474 692M663 681L670 659H720L730 676" fill="#eee2c3" stroke="#171918" stroke-width="3"/>
+<path d="M391 683H407M424 683H445" stroke="#171918" stroke-width="5"/>
+<path d="M716 673L961 661" stroke="#171918" stroke-width="10" stroke-linecap="round"/>
+<path d="M716 671L961 659" stroke="#c59760" stroke-width="5"/>
+<path d="M762 674L959 664Q867 729 762 748Z" fill="url(#bow-net)" stroke="#171918" stroke-width="2"/>
+<path d="M962 661L749 775" fill="none" stroke="#171918" stroke-width="2"/>
+<path d="M161 680Q434 719 763 674L761 732Q759 762 746 779Q487 803 204 782Q165 770 161 680Z" fill="#542b36" stroke="#171918" stroke-width="5" stroke-linejoin="round"/>
+<path d="M166 695Q438 735 760 690" fill="none" stroke="#eee2c3" stroke-width="7"/>
+<path d="M198 775Q476 796 749 771L746 779Q487 803 204 782Z" fill="#171918"/>
+<g fill="none" stroke="#171918" stroke-width="2"><path d="M172 681V660M223 688V667M282 695V674M615 693V672M673 685V664M735 677V656M172 660Q434 699 735 656M294 694L314 429L337 699M551 700L578 361L597 698"/></g>
+<path d="M213 678V650M190 652H231V641H190ZM202 652V668H213V652" fill="#eaff00" stroke="#171918" stroke-width="3"/>
+<text x="665" y="742" fill="#eee2c3" font-family="monospace" font-size="21" transform="rotate(-5 665 742)">NIKE</text>
+<path d="M38 790Q73 778 108 790T178 790M784 791Q820 779 856 791T964 791" fill="none" stroke="#171918" stroke-width="3"/>
+</svg><span class="drill-label">↑ THE AUTOPILOT<br>IS A DRILL.</span>

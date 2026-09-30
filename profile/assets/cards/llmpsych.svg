@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="800" height="220" role="img" aria-labelledby="t"><title id="t">llmpsych: AI psychological safety. Collaboration. HOW DID THAT CHAT FEEL?</title>
 <rect width="800" height="220" fill="#f8f8ed"/>
-<text x="36" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="bold" font-style="normal" fill="#171918" text-anchor="start" letter-spacing="0.84">COLLABORATION</text>
-<text x="764" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="normal" font-style="normal" fill="#171918" text-anchor="end" letter-spacing="0.84">ASHORE ↗</text>
-<path d="M36 62H764" stroke="#171918" stroke-width="1.5"/>
-<text x="36" y="146" font-family="Arial, 'Helvetica Neue', Helvetica, 'Liberation Sans', sans-serif" font-size="72" font-weight="900" font-style="normal" fill="#171918" text-anchor="start" letter-spacing="-3.60" textLength="286.9" lengthAdjust="spacingAndGlyphs">llmpsych</text>
-<text x="36" y="186" font-family="Arial, 'Helvetica Neue', Helvetica, 'Liberation Sans', sans-serif" font-size="20" font-weight="normal" font-style="normal" fill="#171918" text-anchor="start" textLength="207.5" lengthAdjust="spacingAndGlyphs">AI psychological safety.</text>
-<g transform="rotate(2 600 130)"><rect x="470" y="96" width="290" height="66" fill="none" stroke="#ff653b" stroke-width="4"/>
-<rect x="478" y="104" width="274" height="50" fill="none" stroke="#ff653b" stroke-width="1.5"/>
-<text x="615" y="135" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="bold" font-style="normal" fill="#ff653b" text-anchor="middle" letter-spacing="0.90">HOW DID THAT CHAT FEEL?</text></g>
-<rect x="2" y="2" width="796" height="216" fill="none" stroke="#171918" stroke-width="4"/>
+<text x="36" y="46" font-family="'Bricolage Grotesque', Arial, sans-serif" font-size="13" font-weight="750" font-style="normal" fill="#655f56" text-anchor="start" letter-spacing="0.46" textLength="102.4" lengthAdjust="spacingAndGlyphs">COLLABORATION</text>
+<text x="764" y="46" font-family="'Bricolage Grotesque', Arial, sans-serif" font-size="13" font-weight="650" font-style="normal" fill="#655f56" text-anchor="end" letter-spacing="0.46" textLength="61.3" lengthAdjust="spacingAndGlyphs">ASHORE ↗</text>
+<path d="M36 62H764" stroke="#17191830" stroke-width="1.5"/>
+<text x="36" y="146" font-family="'Bricolage Grotesque', Arial, sans-serif" font-size="72" font-weight="800" font-style="normal" fill="#171918" text-anchor="start" letter-spacing="-3.24" textLength="269.4" lengthAdjust="spacingAndGlyphs">llmpsych</text>
+<text x="36" y="186" font-family="'Bricolage Grotesque', Arial, sans-serif" font-size="20" font-weight="normal" font-style="normal" fill="#171918" text-anchor="start" textLength="212.2" lengthAdjust="spacingAndGlyphs">AI psychological safety.</text>
+<g transform="rotate(2 600 130)"><rect x="470" y="96" width="290" height="66" fill="none" stroke="#b96144" stroke-width="4"/>
+<rect x="478" y="104" width="274" height="50" fill="none" stroke="#b96144" stroke-width="1.5"/>
+<text x="615" y="135" font-family="'Bricolage Grotesque', Arial, sans-serif" font-size="14" font-weight="750" font-style="normal" fill="#b96144" text-anchor="middle" letter-spacing="0.70" textLength="176.6" lengthAdjust="spacingAndGlyphs">HOW DID THAT CHAT FEEL?</text></g>
+<rect x="2" y="2" width="796" height="216" fill="none" stroke="#171918" stroke-width="2.5"/>
 </svg>
