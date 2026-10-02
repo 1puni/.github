@@ -14,3 +14,16 @@ Palette, type and copy follow 1puni.com. Poster statuses are copied from the
 site's own honest labels; if a project's status changes there, change it here.
 `brand/avatar-yellow.png` is the org avatar (GitHub has no API for it; upload
 it at Settings → Profile).
+
+## LinkedIn identity
+
+The company formerly called Viciously now uses **1Puni**. Its existing LinkedIn
+page retains company ID `67474104`, with the public address
+https://www.linkedin.com/company/1puni/ and website https://1puni.com.
+The lowercase `1puni` wordmark remains the visual identity.
+
+`brand/linkedin-banner-20261002.png` is the generated panoramic cover artwork,
+using the approved wordmark, Nordic chart textures and sailing headquarters.
+It is a source asset, separate from the generated SVG profile posters.
+Use LinkedIn's crop controls for each cover slot. The prompt and generation
+record are in `brand/linkedin-banner-20261002.md`.
